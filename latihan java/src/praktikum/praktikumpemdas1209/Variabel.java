@@ -1,0 +1,29 @@
+package praktikum.praktikumpemdas1209;
+
+public class Variabel {
+    public static void main(String[] args) {
+        
+        int nilai = 10;
+        double nilai_2 = 5.3;
+        int hasil;
+        String s = "Belajar Java";
+        // System.out.println("============Nomor 12============");
+        System.out.println(nilai - nilai_2);
+        System.out.println(nilai + nilai_2);
+        System.out.println("Kita sedang " + s);
+        
+        // int nilai3 = 100;
+        // hasil = nilai3/2;
+        // System.out.println(hasil);
+
+
+
+
+
+        // // System.out.println("\n\n============Nomor 13============");
+        // System.out.println(nilai + nilai_2);
+        // System.out.println("Kita sedang " + s); 
+        // System.out.println(nilai3/2);
+        
+    }
+}
